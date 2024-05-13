@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.profile {
+    width: 20%;
+    align-items: center;
+}
+
+#name {
+    display: inline-block;
+    background-color: pink;
+}
+
+.icon {
+    width: 50px;
+}
